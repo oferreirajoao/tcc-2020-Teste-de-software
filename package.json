@@ -1,0 +1,24 @@
+{
+  "name": "cypress-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress-tcc": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oferreirajoao/tcc-2020-Teste-de-software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oferreirajoao/tcc-2020-Teste-de-software/issues"
+  },
+  "homepage": "https://github.com/oferreirajoao/tcc-2020-Teste-de-software#readme",
+  "dependencies": {
+    "cypress": "^4.9.0"
+  }
+}
