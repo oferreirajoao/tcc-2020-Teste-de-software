@@ -22,7 +22,7 @@ Realização de teste E2E utilizando Cypress na plataforma Overleaf.
 
 Com o terminal aberto na pasta, execute o comando:
 
-> Lembre-se de inserir as suas credenciais (usuário e senha) de acesso ao site Overleaf no arquivo "[Overleaf.spec.js]".
+> Lembre-se de inserir as suas credenciais (usuário e senha) de acesso ao site Overleaf no arquivo "Overleaf.spec.js".
 
 ```bash
 npm run cypress-tcc
